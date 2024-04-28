@@ -19,6 +19,7 @@ Stockwerk auswählen:
     <option value={"05"}>Obergeschoss 5</option>
     <option value={"U1"}>Untergeschoss 1</option>
     <option value={"U2"}>Untergeschoss 2</option>
+    <option value={"U3"}>Untergeschoss 3</option>
 </select>
 <p >
     Location_No: 8600-Dübendorf-Zürichstrasse 30-<span class="yellow">{location.floorId}</span>-B440
